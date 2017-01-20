@@ -7,7 +7,10 @@ Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is ad
 
 ![](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg)
 
+| Leffat | Julkaisuvuosi |
+|:-------|--------------:|
+| Pulp Fiction | 1994 |
+| Snakes on a Plane | 2006 |
+
 ####Alaotsikko
-
-
 [Vissii joku wikisivu](https://fi.wikipedia.org/wiki/Samuel_L._Jackson)
